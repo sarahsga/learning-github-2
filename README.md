@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Stories By Anansi](https://www.storiesbyanansi.com/)
 
-<a href="https://www.example.com" target="_blank">Stories by Anansi</a>
-<a href="https://www.example.com" target="_blank" rel="noopener">Stories by Anansi (noopener)</a>
+<a href="https://www.storiesbyanansi.com/" target="_blank">Stories by Anansi</a>
+<a href="https://www.storiesbyanansi.com/" target="_blank" rel="noopener">Stories by Anansi (noopener)</a>
 
 ## Available Scripts
 
